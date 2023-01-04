@@ -3,7 +3,14 @@ This Repository contains the code for the "TaskTracker App". It is just a demo f
 For runnning the App, simply:
 
 - Clone the repository
-- Make sure you have node.js installed
+- Make sure that you have node.js installed
+- Make sure that you have the json-server installed by running the command below:
+
+    npm i json-server
+
+    - This component simulates a server with a "database" from which data can be pulled by API calls
+    - The database is actually the db.json file
+
 - From a terminal (I use the one from Visual Code"), run the command below from the App's root folder:
     npm start
 - Check the App in your browser (http://localhost:3000)
