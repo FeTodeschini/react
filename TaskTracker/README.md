@@ -1,3 +1,5 @@
+# YOU CAN SEE THE LOOK AND FEEL OF THE APP BY OPENING THE "TaskTracker Screenshot.JPG" FILE
+
 This Repository contains the code for the "TaskTracker App". It is just a demo for showing the author's knowledge about React.
 
 For runnning the App, simply:
